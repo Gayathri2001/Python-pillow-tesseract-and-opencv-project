@@ -1,0 +1,1 @@
+# Python-pillow-tesseract-and-opencv-project
